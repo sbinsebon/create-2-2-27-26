@@ -1,0 +1,35 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1772251900944L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: -69, z: 91, time: 1772252067114L }
+			{ x: -71, z: 91, time: 1772252065870L }
+			{ x: -70, z: 87, time: 1772252070017L }
+			{ x: -72, z: 91, time: 1772252065418L }
+			{ x: -70, z: 88, time: 1772252070326L }
+			{ x: -70, z: 90, time: 1772252068758L }
+			{ x: -69, z: 92, time: 1772252067458L }
+			{ x: -68, z: 92, time: 1772252068170L }
+			{ x: -70, z: 86, time: 1772252070875L }
+			{ x: -72, z: 92, time: 1772252066611L }
+			{ x: -71, z: 92, time: 1772252066160L }
+			{ x: -68, z: 91, time: 1772252067820L }
+			{ x: -70, z: 89, time: 1772252069164L }
+		]
+	}
+	member_data: {
+		2f3a056a-6bb9-3eb8-8a10-143c4a956faf: {
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+			max_force_loaded_chunks: 25
+		}
+	}
+	prevented_access: {
+		84bcd4be-0cc1-37c8-b801-785b9fcaf01e: {
+			when: 1772314182573L
+			name: "sebita_chile"
+		}
+	}
+}
